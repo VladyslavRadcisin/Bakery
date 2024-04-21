@@ -14,7 +14,7 @@
 
 } */
 .sect1 {
-    background-image: url(/images/photo_2022-06-05_13-14-26\ 1.png);
+    background-image: url(./images/photo_2022-06-05_13-14-26\ 1.png);
     width: 1516px;
     height: 1024px;
 }
@@ -76,7 +76,7 @@ h1 {
 }
 
 .price {
-    background-image: url(/images/Rectangle\ 3.png);
+    background-image: url(./images/Rectangle\ 3.png);
     width: 310px;
     height: 225px;
     margin-left: 162px;
@@ -135,7 +135,7 @@ h1 {
 }
 
 .croissant {
-    background-image: url(/images/Rectangle\ 3.png);
+    background-image: url(./images/Rectangle\ 3.png);
     width: 330px;
     height: 225px;
     margin-left: 420px;
@@ -184,7 +184,7 @@ h1 {
 }
 
 .pie {
-    background-image: url(/images/Rectangle\ 9.png);
+    background-image: url(./images/Rectangle\ 9.png);
     width: 310px;
     height: 225px;
     margin-left: 850px;
@@ -229,7 +229,7 @@ h1 {
 /*\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ section2 \\\\\\\\\\\\\\\\\\\\\\\\\\\\*/
 
 .section2 {
-    background-image: url(/images/Rectangle\ 25.png);
+    background-image: url(./images/Rectangle\ 25.png);
     width: 1516px;
     height: 775px;
 }
@@ -367,7 +367,7 @@ h1 {
 /* \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\section3 \\\\\\\\\\\\\\\\\\\\\\*/
 
 .section3 {
-    background-image: url(/images/Rectangle\ 25.png);
+    background-image: url(./images/Rectangle\ 25.png);
     width: 1516px;
     height: 852px;
 }
@@ -458,7 +458,7 @@ h1 {
     padding-bottom: 52px;
   padding-top: 55px;
   background: linear-gradient(90deg, #000 8.49%, rgba(3, 3, 3, 0) 77.17%),
-    url(/images/photo_2022-06-23_21-45-36\ 1.jpg);
+    url(./images/photo_2022-06-23_21-45-36\ 1.jpg);
 }
 .p-sect4 {
     width: 735px;
@@ -517,7 +517,7 @@ padding-top: 118px;
 /* ///////////////////////////////////section5 //////////////////////////*/
 
 .section5 {
-    background-image: url(/images/Rectangle\ 25.png);
+    background-image: url(./images/Rectangle\ 25.png);
     width: 1515px;
     height: 704px;
 }
@@ -600,7 +600,7 @@ padding-top: 118px;
 
 .text-f {
     display: flex;
-    background-image: url(/images/Rectangle\ 23.png);
+    background-image: url(./images/Rectangle\ 23.png);
     width: 1515px;
     height: 351px;
 }
